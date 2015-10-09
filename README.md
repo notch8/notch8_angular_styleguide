@@ -1,4 +1,4 @@
-#proposed Notch8 JS + Angular style guide
+#In-progress Notch8 JS + Angular style guide
 ##mostly a subset of https://github.com/johnpapa/angular-styleguide
 
 - IIFEs for all code (010)[https://github.com/johnpapa/angular-styleguide#style-y010]
@@ -22,6 +22,6 @@
 - use $inject instead of long dependency injection(074)[https://github.com/johnpapa/angular-styleguide#style-y074]
 
 ###Other stuff not from John Papa:
-camelCase unless it came directly from an API. Please.
-uiRouter instead of Angular router when possible
+- camelCase unless it came directly from an API. Please.
+- uiRouter instead of Angular router when possible
   - $state.go instead of window.location
