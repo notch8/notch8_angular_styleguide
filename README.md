@@ -10,7 +10,8 @@
 - controllerAs with vm (view-model), because 'this' is confusing and contextually problematic [032](https://github.com/johnpapa/angular-styleguide#style-y032)
 
 - components should reveal their API at the top of the file [052](https://github.com/johnpapa/angular-styleguide#style-y052)
-  - function declaration over function expressions because they are order-independent [034](https://github.com/johnpapa/angular-styleguide#style-y034)
+
+- function declaration over function expressions because they are order-independent [034](https://github.com/johnpapa/angular-styleguide#style-y034)
 
 - separate data calls (all API interactions) into services [060](https://github.com/johnpapa/angular-styleguide#style-y060)
 
